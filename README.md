@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+language :  <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/><br>
+framework :  <img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/><br>
+DBMS : <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=spring&logoColor=white"/><br>
+Environment : <img src="https://img.shields.io/badge/aws-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/> <img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=white"/><br>
+# 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mankicho&show_icons=true&theme=highcontrast)](https://github.com/mankicho/github-readme-stats)
+# 
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=skxz123)](https://solved.ac/skxz123)
